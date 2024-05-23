@@ -1,0 +1,114 @@
+[
+  {
+    "profile": {
+      "name": "Raj Kamble",
+      "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+    },
+    "stories": [
+      {
+        "url": "https://picsum.photos/1080/1920",
+        "header": {
+          "heading": "Raj Kamble",
+          "subheading": "Posted 5h ago",
+          "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+        }
+      },
+      {
+        "url": "/assets/img1.jpg",
+        "header": {
+          "heading": "Raj Kamble",
+          "subheading": "Posted 32m ago",
+          "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+        }
+      },
+      {
+        "url": "https://picsum.photos/1080/1920",
+        "header": {
+          "heading": "Raj Kamble",
+          "subheading": "Posted 5h ago",
+          "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+        }
+      },
+      {
+        "url": "/assets/img2.jpg",
+        "header": {
+          "heading": "Raj Kamble",
+          "subheading": "Posted 32m ago",
+          "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+        }
+      },
+      {
+        "url": "/assets/img3.jpg",
+        "header": {
+          "heading": "Raj Kamble",
+          "subheading": "Posted 32m ago",
+          "profileImage": "https://media.licdn.com/dms/image/D4D03AQFySan9i8I-Ig/profile-displayphoto-shrink_200_200/0/1703907085940?e=1721865600&v=beta&t=Fo7Cj8prANchZLy8-GkppxsJLur8VR0TT_rVs4I8cRc"
+        }
+      }
+    ]
+  },
+  {
+    "profile": {
+      "name": "Alice Johnson",
+      "profileImage": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    "stories": [
+      {
+        "url": "https://picsum.photos/1080/1920",
+        "header": {
+          "heading": "Alice Johnson",
+          "subheading": "Posted 1h ago",
+          "profileImage": "https://randomuser.me/api/portraits/women/44.jpg"
+        }
+      },
+      {
+        "url": "/assets/img2.jpg",
+        "header": {
+          "heading": "Alice Johnson",
+          "subheading": "Posted 30m ago",
+          "profileImage": "https://randomuser.me/api/portraits/women/44.jpg"
+        }
+      },
+      {
+        "url": "https://picsum.photos/1080/1920",
+        "header": {
+          "heading": "Alice Johnson",
+          "subheading": "Posted 1h ago",
+          "profileImage": "https://randomuser.me/api/portraits/women/44.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "profile": {
+      "name": "Michael Brown",
+      "profileImage": "https://randomuser.me/api/portraits/men/46.jpg"
+    },
+    "stories": [
+      {
+        "url": "https://picsum.photos/1080/1920",
+        "header": {
+          "heading": "Michael Brown",
+          "subheading": "Posted 2h ago",
+          "profileImage": "https://randomuser.me/api/portraits/men/46.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "profile": {
+      "name": "Sophia Davis",
+      "profileImage": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    "stories": [
+      {
+        "url": "/assets/img1.jpg",
+        "header": {
+          "heading": "Sophia Davis",
+          "subheading": "Posted 15m ago",
+          "profileImage": "https://randomuser.me/api/portraits/women/47.jpg"
+        }
+      }
+    ]
+  }
+]

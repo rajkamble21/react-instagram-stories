@@ -1,0 +1,22 @@
+.viewer-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  box-sizing: border-box;
+  padding: 16px;
+}
+
+@media (max-width: 768px) {
+  .viewer-container {
+    padding: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .viewer-container {
+    padding: 4px;
+  }
+}
